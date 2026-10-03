@@ -67,8 +67,6 @@ Ejemplo de notificación real que reconoce:
 <!-- Agrega aquí tus capturas: crea la carpeta assets/ y sube las imágenes -->
 <div align="left">
   <img src="assets/1.png" alt="Pantalla principal" width="250" />
-</div>
-<div align="right">
   <img src="assets/2.png" alt="Pantalla principal con permisos otorgados" width="250" />
 </div>
 
