@@ -166,7 +166,7 @@ Este es un proyecto personal e independiente. **No está afiliado, patrocinado n
 ## 👤 Autor
 
 **TU NOMBRE**
-🌐 [tu-sitio-web.com](https://tu-sitio-web.com) · 💼 [LinkedIn](https://linkedin.com/in/tu-usuario) · 🐙 [@TU-USUARIO](https://github.com/TU-USUARIO)
+🌐 [tu-sitio-web.com]([https://tu-sitio-web.com](https://portafolio-adrian-43f48.web.app/)) · 💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/adri%C3%A1n-anderson-castro-cuba-angeles-0290a6282/)) · 🐙 [@TU-USUARIO](https://github.com/Adrian474747)
 
 ---
 
