@@ -165,11 +165,14 @@ Este es un proyecto personal e independiente. **No está afiliado, patrocinado n
 
 ## 👤 Autor
 
-**TU NOMBRE**
-🌐 [tu-sitio-web.com]([https://tu-sitio-web.com](https://portafolio-adrian-43f48.web.app/)) · 💼 [LinkedIn]([https://linkedin.com/in/tu-usuario](https://www.linkedin.com/in/adri%C3%A1n-anderson-castro-cuba-angeles-0290a6282/)) · 🐙 [@TU-USUARIO](https://github.com/Adrian474747)
-
+**Adrian Anderson Castro Cuba Angeles**
+ 
+🌐 [Portafolio](https://portafolio-adrian-43f48.web.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-anderson-castro-cuba-angeles-0290a6282/) · 🐙 [GitHub](https://github.com/Adrian474747)
+ 
+📧 [adriancastrocubaangeles@gmail.com](mailto:adriancastrocubaangeles@gmail.com) · 💬 [WhatsApp +51 976 136 219](https://wa.me/51976136219)
+ 
 ---
-
+ 
 <div align="center">
 Hecho con ☕ en Lima, Perú · Si te sirvió, deja una ⭐ al repositorio
 </div>
